@@ -62,11 +62,12 @@ Meetup groups that have used this venue:
 | -------------------- | --------- | ------------ | ---------------- | --------------- | ------------------ |
 |     50/70      | yes |   yes   |    chairs, tables, counter space    |   not too far   | yes |
 
-> Notes, if any: The space is good, although the speaker position is a little odd.
+> Notes, if any: The space is good, although the speaker position is a little odd. Unavailable as of 10/11/18 
 
 Meetup groups that have used this venue:
 * Code & Coffee
 * DCJS
+* NodeDC(Nodeschool)
 
 ## Curiosity Media (office)
 
